@@ -1,0 +1,10 @@
+{
+  "name": "散歩仲間",
+  "short_name": "散歩仲間",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "lang": "ja"
+}
