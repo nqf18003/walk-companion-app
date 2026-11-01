@@ -1,5 +1,8 @@
 # 散歩仲間（スマホ用ウェブアプリ）
 
+### [▶ アプリを開く](https://nqf18003.github.io/walk-companion-app/)
+Android の Chrome で開いてください。
+
 Android の Chrome で開いて景色の写真を撮ると、Claude が散歩仲間として話しかけてくれます。
 
 ## 使い方
